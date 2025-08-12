@@ -18,6 +18,15 @@ A beautiful and functional to-do list application built with Flutter, featuring 
 
 ---
 
+## 📱 Screenshots
+
+| Home Screen | Add Task Screen | Task Details |
+|-------------|-----------------|--------------|
+| ![Home](screenshots/home.png) | ![Add Task](screenshots/add_task.png) | ![Details](screenshots/details.png) |
+
+> 📸 Place your screenshots in a `/screenshots` folder at project root.
+
+---
 
 ## 📂 Project Structure
 
@@ -136,8 +145,8 @@ CREATE TABLE tasks(
 **Your Name**  
 Feel free to connect or contribute to this project.
 
-📧 [contact.mhayat@gmail.com](contact.mhayat@gmail.com)  
-🔗 [hayat-ishfaq](https://github.com/hayat-ishfaq)
+📧 [your.email@example.com](mailto:your.email@example.com)  
+🔗 [GitHub Profile](https://github.com/yourusername)
 
 ---
 
